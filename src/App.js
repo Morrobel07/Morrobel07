@@ -1,6 +1,6 @@
 
 import Navbar from './componentes/Navbar.jsx';
-
+import Banner from './componentes/Banner.jsx';
 
 
 function App() {
@@ -9,7 +9,9 @@ function App() {
     <div className="App">
     
      <Navbar />
-     
+
+     <Banner/>
+      
      
      </div>
   );

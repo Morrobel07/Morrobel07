@@ -29,7 +29,7 @@ const Burguer = styled.div`
     display: inline-block;
   }
   .nav-icon-2 span{
-    background-color:#FFF;
+    background-color:#088fa0 ;
     position: absolute;
     border-radius: 2px;
     transition: .3s cubic-bezier(.8, .5, .2, 1.4);
